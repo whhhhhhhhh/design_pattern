@@ -1,4 +1,4 @@
-package edu.hebut.chainOfResponsibility;
+package edu.hebut.chainofresponsibility;
 
 public abstract class ChainHandler {
 

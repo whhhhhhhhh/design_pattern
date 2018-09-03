@@ -1,4 +1,4 @@
-package edu.hebut.chainOfResponsibility;
+package edu.hebut.chainofresponsibility;
 
 import java.util.Arrays;
 
