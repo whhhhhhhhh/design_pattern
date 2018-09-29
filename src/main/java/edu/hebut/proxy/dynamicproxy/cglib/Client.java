@@ -1,4 +1,4 @@
-package edu.hebut.proxy.dynamicProxy.cglib;
+package edu.hebut.proxy.dynamicproxy.cglib;
 
 public class Client {
 

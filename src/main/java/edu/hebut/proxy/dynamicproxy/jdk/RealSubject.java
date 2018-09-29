@@ -1,4 +1,4 @@
-package edu.hebut.proxy.dynamicProxy.jdk;
+package edu.hebut.proxy.dynamicproxy.jdk;
 
 public class RealSubject implements Subject {
     @Override

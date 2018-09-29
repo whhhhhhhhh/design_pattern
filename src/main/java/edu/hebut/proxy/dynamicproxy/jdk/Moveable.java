@@ -1,4 +1,4 @@
-package edu.hebut.proxy.dynamicProxy.jdk;
+package edu.hebut.proxy.dynamicproxy.jdk;
 
 public interface Moveable {
 

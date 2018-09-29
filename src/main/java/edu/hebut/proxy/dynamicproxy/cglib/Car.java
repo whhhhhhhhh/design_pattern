@@ -1,6 +1,6 @@
-package edu.hebut.proxy.dynamicProxy.cglib;
+package edu.hebut.proxy.dynamicproxy.cglib;
 
-import edu.hebut.proxy.dynamicProxy.jdk.Moveable;
+import edu.hebut.proxy.dynamicproxy.jdk.Moveable;
 
 public class Car implements Moveable {
     @Override

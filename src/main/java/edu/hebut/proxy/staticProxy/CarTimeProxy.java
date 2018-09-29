@@ -1,6 +1,6 @@
 package edu.hebut.proxy.staticProxy;
 
-import edu.hebut.proxy.dynamicProxy.jdk.Moveable;
+import edu.hebut.proxy.dynamicproxy.jdk.Moveable;
 
 import java.util.Date;
 
